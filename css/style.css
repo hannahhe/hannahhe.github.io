@@ -495,9 +495,9 @@ ul.social li{
 	margin-top: 30px;
 }
 
-ul.social li a{
+ul.social li a{ /* formatting for the social icons*/
 	color: #ffffff;
-	font-size: 16px;
+	font-size: 30px;
 }
 
 address strong{

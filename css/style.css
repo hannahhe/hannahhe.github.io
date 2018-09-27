@@ -216,6 +216,16 @@ background-color: transparent;
 	padding: 60px 0;
 }
 
+.row{
+  display: flex;
+  text-align: center;
+}
+
+.column{
+  flex: 50%;
+  padding: 5px;
+}
+
 a.down-btn span.fa.fa-angle-down {
 	font-size: 26px;
 	border: 1px solid #c59a6d;
